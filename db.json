@@ -1,0 +1,131 @@
+{
+  "root": [
+    {
+      "Key": "Music/",
+      "Owner": {
+        "DisplayName": "Music",
+        "ID": "12345example25102679df27bb0ae12b3f85be6f290b936c4393484be31bebcc"
+      }
+    },
+    {
+      "Key": "Pictures/",
+      "Owner": {
+        "DisplayName": "Pictures",
+        "ID": "12345example25102679df27bb0ae12b3f85be6f290b936c4393484be31bebcc"
+      }
+    },
+    {
+      "Key": "Movies/",
+      "Owner": {
+        "DisplayName": "Movies",
+        "ID": "12345example25102679df27bb0ae12b3f85be6f290b936c4393484be31bebcc"
+      }
+    },
+    {
+      "Key": "rootImage.jpg",
+      "Owner": {
+        "DisplayName": "file at root",
+        "ID": "12345example25102679df27bb0ae12b3f85be6f290b936c4393484be31bebcc"
+      }
+    }
+  ],
+  "Music": [
+    {
+      "Key": "Song1.mp3",
+      "Owner": {
+        "DisplayName": "Song 1 Name",
+        "ID": "12345example25102679df27bb0ae12b3f85be6f290b936c4393484be31bebcc"
+      }
+    },
+    {
+      "Key": "OldEnglsh/",
+      "Owner": {
+        "DisplayName": "Old Songs",
+        "ID": "12345example25102679df27bb0ae12b3f85be6f290b936c4393484be31bebcc"
+      }
+    }
+  ],
+  "Pictures": [
+    {
+      "Key": "picture1.jpg",
+      "Owner": {
+        "DisplayName": "pictures-1",
+        "ID": "12345example25102679df27bb0ae12b3f85be6f290b936c4393484be31bebcc"
+      }
+    },
+    {
+      "Key": "picture2.jpg",
+      "Owner": {
+        "DisplayName": "pictures-2",
+        "ID": "12345example25102679df27bb0ae12b3f85be6f290b936c4393484be31bebcc"
+      }
+    },
+    {
+      "Key": "picture3.jpg",
+      "Owner": {
+        "DisplayName": "pictures-3",
+        "ID": "12345example25102679df27bb0ae12b3f85be6f290b936c4393484be31bebcc"
+      }
+    }
+  ],
+  "OldEnglsh": [
+    {
+      "Key": "oldsong1.mp3",
+      "Owner": {
+        "DisplayName": "old song 1",
+        "ID": "12345example25102679df27bb0ae12b3f85be6f290b936c4393484be31bebcc"
+      }
+    },
+    {
+      "Key": "oldsong2.mp3",
+      "Owner": {
+        "DisplayName": "old song 2",
+        "ID": "12345example25102679df27bb0ae12b3f85be6f290b936c4393484be31bebcc"
+      }
+    },
+    {
+      "Key": "oldsong3.mp3",
+      "Owner": {
+        "DisplayName": "old song 3",
+        "ID": "12345example25102679df27bb0ae12b3f85be6f290b936c4393484be31bebcc"
+      }
+    },
+    {
+      "Key": "oldsong4.mp3",
+      "Owner": {
+        "DisplayName": "old song 4",
+        "ID": "12345example25102679df27bb0ae12b3f85be6f290b936c4393484be31bebcc"
+      }
+    }
+  ],
+  "Movies": [
+     {
+      "Key": "Bahubali1",
+      "Owner": {
+        "DisplayName": "Bahubali 1",
+        "ID": "12345example25102679df27bb0ae12b3f85be6f290b936c4393484be31bebcc"
+      }
+    },
+     {
+      "Key": "Bahubali2",
+      "Owner": {
+        "DisplayName": "Bahubali 2",
+        "ID": "12345example25102679df27bb0ae12b3f85be6f290b936c4393484be31bebcc"
+      }
+    },
+     {
+      "Key": "Bahubali3",
+      "Owner": {
+        "DisplayName": "Bahubali 3",
+        "ID": "12345example25102679df27bb0ae12b3f85be6f290b936c4393484be31bebcc"
+      }
+    },
+     {
+      "Key": "Bahubali4",
+      "Owner": {
+        "DisplayName": "Bahubali4",
+        "ID": "12345example25102679df27bb0ae12b3f85be6f290b936c4393484be31bebcc"
+      }
+    }
+  ]
+}
